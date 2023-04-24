@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
+:root {
+    font-family: 'Bungee', cursive;
+    background: linear-gradient(180deg, #3A6D7E, #000);
+    background-attachment:fixed;
+    color: #fff;
+    height: 100vh;
+    
+    --primary: #C4ECF9;
+}
+
+body, #__nuxt {
+    margin: 0;
+    height: 100%;
+}
