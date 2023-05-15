@@ -1,1 +1,0 @@
-import{a as n,o as t,b as _,m as o}from"./entry.c002a60d.js";const c={},s={class:"content container"};function a(e,r){return t(),_("main",s,[o(e.$slots,"default",{},void 0,!0)])}const l=n(c,[["render",a],["__scopeId","data-v-b510aeec"]]);export{l as _};
