@@ -1,10 +1,10 @@
 <template>
 <nav>
-    <NuxtLink to="/">ABOUT</NuxtLink>
-    <NuxtLink to="/">SOCIALS</NuxtLink>
-    <NuxtLink to="/">EVENTS</NuxtLink>
-    <NuxtLink to="/">VIDEOS</NuxtLink>
-    <NuxtLink to="/">CONTACT</NuxtLink>
+    <NuxtLink to="/about">ABOUT</NuxtLink>
+    <NuxtLink to="/socials">SOCIALS</NuxtLink>
+    <NuxtLink to="/events">EVENTS</NuxtLink>
+    <NuxtLink to="/videos">VIDEOS</NuxtLink>
+    <NuxtLink to="/contact">CONTACT</NuxtLink>
     </nav>
 </template>
 

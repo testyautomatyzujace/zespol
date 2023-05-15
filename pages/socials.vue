@@ -1,0 +1,9 @@
+<template>
+    <PageTitle>SOCIALS</PageTitle>
+    <Content>
+        <SocialLink>Facebook</SocialLink>
+        <SocialLink>Instagram</SocialLink>
+        <SocialLink>TikTok</SocialLink>
+        <SocialLink>Twitter</SocialLink>
+    </Content>
+</template>

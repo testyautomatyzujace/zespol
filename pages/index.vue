@@ -2,7 +2,7 @@
     <div class="main">
         <div></div>
         <h1 class="header">ZESPOL</h1>
-        <div class="footer">upcoming events</div>
+        <NuxtLink href="/events" class="footer">upcoming events</NuxtLink>
     </div>
 </template>
 
@@ -23,5 +23,7 @@ font-size: 4rem;
 .footer {
 justify-content: flex-end;
 color: var(--primary);
+font: inherit;
+text-decoration: none;
 }
 </style>

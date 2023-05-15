@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 :root {
     font-family: 'Bungee', cursive;
@@ -13,4 +14,20 @@
 body, #__nuxt {
     margin: 0;
     height: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    width: min(100%, 560px);
+    font-size: 20px;
+}
+
+@media (max-width: 560px) {
+    .container {
+        padding: 10px;
+    }
+}
+
+* {
+    box-sizing: border-box;
 }
