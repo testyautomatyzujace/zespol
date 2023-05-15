@@ -1,4 +1,5 @@
 <template>
+<NuxtLink to="/" style="text-align: center">ZESPOL</NuxtLink>
 <nav>
     <NuxtLink to="/about">ABOUT</NuxtLink>
     <NuxtLink to="/socials">SOCIALS</NuxtLink>
