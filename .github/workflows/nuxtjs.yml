@@ -5,7 +5,7 @@
 name: Deploy Nuxt site to Pages
 
 env:
- NUXT_APP_BASE_URL: /public/
+ NUXT_APP_BASE_URL: /zespol/
 on:
   # Runs on pushes targeting the default branch
   push:
